@@ -5,4 +5,4 @@ import ClienteProApp from './ClienteProApp';
 
 const divRoot = document.querySelector('#root');
 
-ReactDOM.render( <ClienteProApp />, divRoot );
+ReactDOM.render( <ClienteProApp/>, divRoot );
